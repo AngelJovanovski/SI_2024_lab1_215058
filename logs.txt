@@ -1,0 +1,35 @@
+commit b8225315f077043a9d742497a438f3acb88247bb
+Author: Natasha Ilievska <natasha.ilievska@upshiftwork.com>
+Date:   Sun Apr 14 21:28:15 2024 +0200
+
+    Popraveno
+
+commit 309299ae13d41af756e6d397959376270c22009c
+Author: Natasha Ilievska <natasha.ilievska@upshiftwork.com>
+Date:   Sun Apr 14 21:14:10 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit c1cee22cf1d74fcc519bd1fe80a8c01ca8336010
+Author: Natasha Ilievska <natasha.ilievska@upshiftwork.com>
+Date:   Sun Apr 14 21:16:41 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 68cd27ced940c2690706dbfad49eb433a8cc1934
+Author: Natasha Ilievska <natasha.ilievska@upshiftwork.com>
+Date:   Sun Apr 14 21:06:37 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 9fc119504415673eb8bdac83a710b836ab4a9750
+Author: Natasha Ilievska <natasha.ilievska@upshiftwork.com>
+Date:   Sun Apr 14 20:50:00 2024 +0200
+
+    Add startet code
+
+commit 8a38753924ef209b1c7165e464a0bd762517feb5
+Author: Natasha Ilievska <natasha.ilievska@upshiftwork.com>
+Date:   Sun Apr 14 20:41:09 2024 +0200
+
+    Initial commit
